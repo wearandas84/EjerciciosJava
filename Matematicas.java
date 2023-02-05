@@ -5,7 +5,8 @@ public class Matematicas {
     public static void main(String[] args){
         int opcion, cant;
         int ejecuta = 1;
-        double num1, num2;
+        double num1;
+        double num2 = 0;
         /*Inicializamos un objeto de la clase Matematicas 
         para tener acceso a las funciones de operacion*/
         Matematicas oper = new Matematicas();
@@ -24,8 +25,14 @@ public class Matematicas {
             if(opcion == 4){
                 System.out.println("Introduce el primer numero:");
                 num1 = lector.nextDouble();
-                System.out.println("Introduce el segundo numero:");
-                num2 = lector.nextDouble();
+                //Se valida que el divisor no sea 0
+                while(num2 == 0){
+                    System.out.println("Introduce el segundo numero:");
+                    num2 = lector.nextDouble();
+                    if(num2 == 0){
+                        System.out.println("El divisor no puede ser 0");
+                    }
+                }
                 double resultado = oper.division(num1, num2);
                 System.out.println("El resultado de la division es: "+ resultado);
             } else {
