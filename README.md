@@ -1,2 +1,2 @@
 # EjerciciosJava
-Este repositorio contiene practicas escritas en Java y Python, espero que les pueda ser de utilidad
+Este repositorio contiene practicas escritas en Java, Python y C# .NET Core, espero que les pueda ser de utilidad.
