@@ -1,0 +1,15 @@
+/home/william/Documentos/java/Matematicas/bin/Debug/net6.0/Matematicas
+/home/william/Documentos/java/Matematicas/bin/Debug/net6.0/Matematicas.deps.json
+/home/william/Documentos/java/Matematicas/bin/Debug/net6.0/Matematicas.runtimeconfig.json
+/home/william/Documentos/java/Matematicas/bin/Debug/net6.0/Matematicas.dll
+/home/william/Documentos/java/Matematicas/bin/Debug/net6.0/ref/Matematicas.dll
+/home/william/Documentos/java/Matematicas/bin/Debug/net6.0/Matematicas.pdb
+/home/william/Documentos/java/Matematicas/obj/Debug/net6.0/Matematicas.csproj.AssemblyReference.cache
+/home/william/Documentos/java/Matematicas/obj/Debug/net6.0/Matematicas.GeneratedMSBuildEditorConfig.editorconfig
+/home/william/Documentos/java/Matematicas/obj/Debug/net6.0/Matematicas.AssemblyInfoInputs.cache
+/home/william/Documentos/java/Matematicas/obj/Debug/net6.0/Matematicas.AssemblyInfo.cs
+/home/william/Documentos/java/Matematicas/obj/Debug/net6.0/Matematicas.csproj.CoreCompileInputs.cache
+/home/william/Documentos/java/Matematicas/obj/Debug/net6.0/Matematicas.dll
+/home/william/Documentos/java/Matematicas/obj/Debug/net6.0/ref/Matematicas.dll
+/home/william/Documentos/java/Matematicas/obj/Debug/net6.0/Matematicas.pdb
+/home/william/Documentos/java/Matematicas/obj/Debug/net6.0/Matematicas.genruntimeconfig.cache
