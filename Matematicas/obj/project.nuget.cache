@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HQXde68Epxg3SB9VXVLPl+jnk7+WgnSa/keiFKAlNOjYYCqsqoD07+r7Ftbujer0S8YxQg8wF8HjEPfU9ugXSg==",
+  "dgSpecHash": "meVpiWigBV8/lzfqJncmqEMqMuUjdIMcaLbtpJWPwf2v75zkqUJmTSej3h1VIjVz6PksHwZUP3abvSwUr20v1w==",
   "success": true,
-  "projectFilePath": "/home/william/Documentos/java/Matematicas/Matematicas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/william/Documentos/EjerciciosJava/Matematicas/Matematicas.csproj",
+  "expectedPackageFiles": [
+    "/home/william/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
