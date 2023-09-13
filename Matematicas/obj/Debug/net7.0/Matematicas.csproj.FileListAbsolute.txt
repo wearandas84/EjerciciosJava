@@ -1,0 +1,15 @@
+/home/william/Documentos/EjerciciosJava/Matematicas/bin/Debug/net7.0/Matematicas
+/home/william/Documentos/EjerciciosJava/Matematicas/bin/Debug/net7.0/Matematicas.deps.json
+/home/william/Documentos/EjerciciosJava/Matematicas/bin/Debug/net7.0/Matematicas.runtimeconfig.json
+/home/william/Documentos/EjerciciosJava/Matematicas/bin/Debug/net7.0/Matematicas.dll
+/home/william/Documentos/EjerciciosJava/Matematicas/bin/Debug/net7.0/Matematicas.pdb
+/home/william/Documentos/EjerciciosJava/Matematicas/obj/Debug/net7.0/Matematicas.csproj.AssemblyReference.cache
+/home/william/Documentos/EjerciciosJava/Matematicas/obj/Debug/net7.0/Matematicas.GeneratedMSBuildEditorConfig.editorconfig
+/home/william/Documentos/EjerciciosJava/Matematicas/obj/Debug/net7.0/Matematicas.AssemblyInfoInputs.cache
+/home/william/Documentos/EjerciciosJava/Matematicas/obj/Debug/net7.0/Matematicas.AssemblyInfo.cs
+/home/william/Documentos/EjerciciosJava/Matematicas/obj/Debug/net7.0/Matematicas.csproj.CoreCompileInputs.cache
+/home/william/Documentos/EjerciciosJava/Matematicas/obj/Debug/net7.0/Matematicas.dll
+/home/william/Documentos/EjerciciosJava/Matematicas/obj/Debug/net7.0/refint/Matematicas.dll
+/home/william/Documentos/EjerciciosJava/Matematicas/obj/Debug/net7.0/Matematicas.pdb
+/home/william/Documentos/EjerciciosJava/Matematicas/obj/Debug/net7.0/Matematicas.genruntimeconfig.cache
+/home/william/Documentos/EjerciciosJava/Matematicas/obj/Debug/net7.0/ref/Matematicas.dll
