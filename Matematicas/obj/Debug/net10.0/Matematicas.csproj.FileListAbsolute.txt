@@ -1,0 +1,15 @@
+C:\Users\William\EjerciciosJava\Matematicas\bin\Debug\net10.0\Matematicas.exe
+C:\Users\William\EjerciciosJava\Matematicas\bin\Debug\net10.0\Matematicas.deps.json
+C:\Users\William\EjerciciosJava\Matematicas\bin\Debug\net10.0\Matematicas.runtimeconfig.json
+C:\Users\William\EjerciciosJava\Matematicas\bin\Debug\net10.0\Matematicas.dll
+C:\Users\William\EjerciciosJava\Matematicas\bin\Debug\net10.0\Matematicas.pdb
+C:\Users\William\EjerciciosJava\Matematicas\obj\Debug\net10.0\Matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\EjerciciosJava\Matematicas\obj\Debug\net10.0\Matematicas.AssemblyInfoInputs.cache
+C:\Users\William\EjerciciosJava\Matematicas\obj\Debug\net10.0\Matematicas.AssemblyInfo.cs
+C:\Users\William\EjerciciosJava\Matematicas\obj\Debug\net10.0\Matematicas.csproj.CoreCompileInputs.cache
+C:\Users\William\EjerciciosJava\Matematicas\obj\Debug\net10.0\Matematicas.sourcelink.json
+C:\Users\William\EjerciciosJava\Matematicas\obj\Debug\net10.0\Matematicas.dll
+C:\Users\William\EjerciciosJava\Matematicas\obj\Debug\net10.0\refint\Matematicas.dll
+C:\Users\William\EjerciciosJava\Matematicas\obj\Debug\net10.0\Matematicas.pdb
+C:\Users\William\EjerciciosJava\Matematicas\obj\Debug\net10.0\Matematicas.genruntimeconfig.cache
+C:\Users\William\EjerciciosJava\Matematicas\obj\Debug\net10.0\ref\Matematicas.dll
