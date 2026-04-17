@@ -2,35 +2,25 @@ import sys
 
 # Definimos las funciones de operaciones matematicas
 def dividir(num1, num2):
-    resultado = float(num1 / num2)
-    return resultado
+    return num1 / num2
 
 def sumar(numeros):
-    resultado = float(0)
-    for x in numeros:
-        resultado = resultado + float(x)
-    return resultado
+    return sum(numeros)
 
 def restar(numeros):
-    resultado = float(0)
-    cont = int(0)
-    for x in numeros:
-        if cont == 0:
-            resultado = float(x)
-        else:
-            resultado = resultado - float(x)
-        cont += 1
+    if not numeros:
+        return 0.0
+    resultado = numeros[0]
+    for x in numeros[1:]:
+        resultado -= x
     return resultado
 
 def multiplicar(numeros):
-    resultado = float(0)
-    cont = int(0)
-    for x in numeros:
-        if cont == 0:
-            resultado = float(x)
-        else:
-            resultado = resultado * float(x)
-        cont += 1
+    if not numeros:
+        return 0.0
+    resultado = numeros[0]
+    for x in numeros[1:]:
+        resultado *= x
     return resultado
 # Creamos un menu para que el usuarios elija la operacion y el cual se ejecutara mientras el usuario no seleccione la opcion para salir
 ejecuta = int(1)
